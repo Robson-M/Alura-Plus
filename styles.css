@@ -11,7 +11,7 @@ margin: 0;
 --cinza-cor-terciaria: #C0C0C0;
 --vermelhor-cor-quartenario: #EC2F46;
 --preto-fundo: #00030C;
---azul-botão: #167BF7;
+--azul-botão: #212529;
 }
 
 body{
@@ -29,7 +29,7 @@ body{
 }
 
 .conteiner {
-    height: 100vh;
+    height: 101vh;
     display: grid;
     grid-template-columns: 50% 50%;  
 }
