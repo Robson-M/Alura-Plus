@@ -21,7 +21,7 @@ body{
 }
 
 .principal {
-    background-image: url("/Alura-plus/img/Background.png");
+    background-image: url("/img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;  
     align-items: center;
@@ -35,8 +35,7 @@ body{
 }
 
 .conteiner__caixa {
-    margin: 0 4em;
-    
+    margin: 0 4em;    
 }
 
 .conteiner__titulo {
